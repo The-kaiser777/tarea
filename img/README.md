@@ -23,7 +23,7 @@ Cuando el **Aislamiento de Núcleo** está activado:
 - Otros hipervisores no pueden acceder directamente al hardware
 - KVM puede aparecer como `False`
 
-> ⚠ Impacto técnico: Reduce el rendimiento o impide virtualización anidada.
+> Impacto técnico: Reduce el rendimiento o impide virtualización anidada.
 
 ---
 
