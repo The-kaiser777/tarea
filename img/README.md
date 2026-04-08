@@ -6,6 +6,8 @@
 ---
 
 ## 1. Arquitectura de Virtualización en Windows 11
+<img width="326" height="233" alt="Captura de pantalla 2026-04-08 154419" src="https://github.com/user-attachments/assets/bdca6fe5-4031-45e4-98d4-cb9885cd5422" />
+
 
 ### 1.1 Aislamiento de Núcleo y VBS
 
